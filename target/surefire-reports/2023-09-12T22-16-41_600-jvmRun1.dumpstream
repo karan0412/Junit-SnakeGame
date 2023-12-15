@@ -1,0 +1,15 @@
+# Created at 2023-09-12T22:16:42.330
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2023-09-12T22:16:42.334
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2023-09-12T22:16:42.334
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (mmap) failed to map 4030464 bytes for Failed to commit area from 0x00000227f7c30000 to 0x00000227f8008000 of length 4030464.'.
+
+# Created at 2023-09-12T22:16:42.334
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2023-09-12T22:16:42.334
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# C:\Users\Savi\Desktop\USP\Year 3\3-S2-2023\CS341\CS341-Lab2\CS341_A1_Java_S11199815_S11198967\hs_err_pid42004.log'.
+

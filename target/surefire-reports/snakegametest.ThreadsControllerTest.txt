@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: snakegametest.ThreadsControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.067 s <<< FAILURE! - in snakegametest.ThreadsControllerTest
+snakegametest.ThreadsControllerTest.testCheckCollision  Time elapsed: 0.042 s  <<< ERROR!
+java.lang.NullPointerException
+	at snakegametest.ThreadsControllerTest.testCheckCollision(ThreadsControllerTest.java:113)
+
+snakegametest.ThreadsControllerTest.testGetValAleaNotInSnake  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at snakegametest.ThreadsControllerTest.testGetValAleaNotInSnake(ThreadsControllerTest.java:81)
+
+snakegametest.ThreadsControllerTest.testDeleteTail  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at snakegametest.ThreadsControllerTest.testDeleteTail(ThreadsControllerTest.java:43)
+
+snakegametest.ThreadsControllerTest.testMoveInterne1  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at snakegametest.ThreadsControllerTest.testMoveInterne1(ThreadsControllerTest.java:21)
+
+snakegametest.ThreadsControllerTest.testMoveInterne2  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at snakegametest.ThreadsControllerTest.testMoveInterne2(ThreadsControllerTest.java:33)
+
